@@ -1,3 +1,7 @@
+# Awesome ReasonML
+
+Awesome lists for ReasonML and OCaml programming language
+
 <!-- vscode-markdown-toc -->
 * [Community](#Community)
 * [Package Managers](#PackageManagers)
@@ -23,9 +27,6 @@
 <!-- /vscode-markdown-toc -->
 
 
-# awesome-reasonml
-Awesome repos for ReasonML and OCaml programming language
-
 ## <a name='Community'></a>Community
 * [Discord](https://discord.gg/reasonml) - Official ReasonML Discord server
 * [ReasonML.chat](https://reasonml.chat/) - Official ReasonML forums powered by Discourse
@@ -38,7 +39,6 @@ Awesome repos for ReasonML and OCaml programming language
 * [Esy](https://esy.sh/) - Enhanced package manager
 
 ## <a name='Repositories'></a>Repositories
-List of notable repositories using ReasonML
 
 ### <a name='TextEditors'></a>Text Editors
 * [/onivim/oni2](https://github.com/onivim/oni2) - Native, Lightweight modal code editor
@@ -59,7 +59,6 @@ List of notable repositories using ReasonML
 
 ### <a name='ImageProcessing'></a>Image Processing
 * [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - Find the difference between images pixel-by-pixel
-* 
 
 ### <a name='HTMLCanvas'></a>HTML Canvas
 * [Schmavery/reprocessing](https://github.com/Schmavery/reprocessing) - Processing.org for Reason
@@ -69,8 +68,8 @@ List of notable repositories using ReasonML
 * [davesnx/query-json](https://github.com/davesnx/query-json) - query and parse json from CLI (jq clone)
 
 ## <a name='SearchQueries'></a>Search Queries
-[OCaml Repos](https://github.com/search?q=stars%3A%3E5+path%3A**%2Fdune+language%3AOCaml&type=&ref=advsearch&s=stars&o=desc)
-[ReasonML Repos](https://github.com/search?q=stars%3A%3E5+path%3A**%2Fesy.json%24++language%3AReason&type=&ref=advsearch&s=stars&o=desc)
+* [OCaml Repos](https://github.com/search?q=stars%3A%3E5+path%3A**%2Fdune+language%3AOCaml&type=&ref=advsearch&s=stars&o=desc)
+* [ReasonML Repos](https://github.com/search?q=stars%3A%3E5+path%3A**%2Fesy.json%24++language%3AReason&type=&ref=advsearch&s=stars&o=desc)
 
 ## <a name='Upgrading'></a>Upgrading
 
